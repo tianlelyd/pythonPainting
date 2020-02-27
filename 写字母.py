@@ -1,0 +1,13 @@
+import turtle
+turtle.pencolor("red")
+turtle.pensize(5)
+turtle.seth(-135)
+turtle.fd(150)
+turtle.seth(45)
+turtle.fd(150)
+turtle.left(-90)
+turtle.fd(150)
+turtle.seth(135)
+turtle.fd(75)
+turtle.seth(180)
+turtle.fd(106)
