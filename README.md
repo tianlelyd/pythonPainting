@@ -1,4 +1,4 @@
-pythonPainting python 画画资源库
+pythonPainting - python 画画资源库
 ====
 
 ## 概述
